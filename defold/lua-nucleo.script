@@ -1,0 +1,2 @@
+require "lua-nucleo.require_and_declare"
+require "lua-nucleo.init"
